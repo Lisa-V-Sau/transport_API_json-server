@@ -1,9 +1,10 @@
-{
-    "date": "12-03-2021",
-    "time_of_day": "09:00",
-    "request_time": "2021-03-10T21:02:35+00:00",
-    "station_name": "London Waterloo",
-    "station_code": "WAT",
+{   "train_api": {
+        "date": "12-03-2021",
+        "time_of_day": "09:00",
+        "request_time": "2021-03-10T21:02:35+00:00",
+        "station_name": "London Waterloo",
+        "station_code": "WAT"
+},
     "departures": {
         "all": [
             {

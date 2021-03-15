@@ -1,3 +1,4 @@
+//**This file contains an algorithm to fetch API directly from the url */
 
 async function getData() {
   
@@ -6,10 +7,7 @@ async function getData() {
   const response = await fetch(api_url)
   
   const data = await response.json(); 
-  
-  //const {latitude, longitude} = data;
-  
-  console.log(data)
+    
   console.log(data);  
   
 } 
