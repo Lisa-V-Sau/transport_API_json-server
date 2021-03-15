@@ -1,0 +1,461 @@
+{
+    "date": "12-03-2021",
+    "time_of_day": "09:00",
+    "request_time": "2021-03-10T21:02:35+00:00",
+    "station_name": "London Waterloo",
+    "station_code": "WAT",
+    "departures": {
+        "all": [
+            {
+                "mode": "train",
+                "service": "24620204",
+                "train_uid": "Q84348",
+                "platform": "10",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:00",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Bournemouth",
+                "source": "ATOC",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84348/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24673605",
+                "train_uid": "Q84646",
+                "platform": "1",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:03",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Guildford",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84646/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24671505",
+                "train_uid": "Q85047",
+                "platform": "18",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:03",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "London Waterloo",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q85047/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24621104",
+                "train_uid": "Q84140",
+                "platform": "14",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:05",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Portsmouth & Southsea",
+                "source": "ATOC",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84140/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24673705",
+                "train_uid": "Q84109",
+                "platform": "5",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:09",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Dorking",
+                "source": "ATOC",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84109/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24631204",
+                "train_uid": "Q84301",
+                "platform": "15",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:09",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Portsmouth Harbour",
+                "source": "ATOC",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84301/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24629204",
+                "train_uid": "Q39370",
+                "platform": "8",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:12",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Basingstoke",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q39370/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24671405",
+                "train_uid": "Q84713",
+                "platform": "3",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:12",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Shepperton",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84713/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24621204",
+                "train_uid": "Q85090",
+                "platform": "12",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:15",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Haslemere",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q85090/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24672104",
+                "train_uid": "Q84437",
+                "platform": "20",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:20",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Reading",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84437/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24623104",
+                "train_uid": "Q84223",
+                "platform": "11",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:20",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Salisbury",
+                "source": "ATOC",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84223/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24673605",
+                "train_uid": "Q84582",
+                "platform": "4",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:20",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Woking",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84582/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24671205",
+                "train_uid": "Q85180",
+                "platform": "19",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:22",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Weybridge",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q85180/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24673405",
+                "train_uid": "Q84932",
+                "platform": "6",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:24",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Chessington South",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84932/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24671405",
+                "train_uid": "Q84854",
+                "platform": "3",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:27",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "London Waterloo",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84854/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24671205",
+                "train_uid": "Q85281",
+                "platform": "17",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:28",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Staines",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q85281/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24621104",
+                "train_uid": "Q84270",
+                "platform": "8",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:30",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Portsmouth Harbour",
+                "source": "ATOC",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84270/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24673605",
+                "train_uid": "Q84648",
+                "platform": "1",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:33",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Guildford",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84648/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24671505",
+                "train_uid": "Q85048",
+                "platform": "18",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:33",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "London Waterloo",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q85048/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24620104",
+                "train_uid": "Q84331",
+                "platform": "13",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:35",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Bournemouth",
+                "source": "ATOC",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84331/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24673205",
+                "train_uid": "Q84767",
+                "platform": "2",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:36",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Hampton Court",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84767/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24673705",
+                "train_uid": "Q84508",
+                "platform": "5",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:39",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Guildford",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84508/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24621204",
+                "train_uid": "Q85092",
+                "platform": "10",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:45",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Portsmouth Harbour",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q85092/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24672104",
+                "train_uid": "Q84439",
+                "platform": "20",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:50",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Reading",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q84439/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            },
+            {
+                "mode": "train",
+                "service": "24671205",
+                "train_uid": "Q85182",
+                "platform": "16",
+                "operator": "SW",
+                "operator_name": "South Western Railway",
+                "aimed_departure_time": "09:52",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Waterloo",
+                "destination_name": "Weybridge",
+                "source": "ATOC",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service/train_uid:Q85182/2021-03-10/timetable.json?app_id=bbac82cd&app_key=4fdb217e779681c28fba9e08e19a4517"
+                }
+            }
+        ]
+    }
+}
